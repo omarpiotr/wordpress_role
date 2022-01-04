@@ -4,6 +4,7 @@ network_name: "wordpress"
 
 wordpress_container: "wordpress"
 wordpress_data : "wordpress_data"
+wordpress_port: 80
 
 mysql_container: "mysql"
 mysql_root_password: "root789!"
