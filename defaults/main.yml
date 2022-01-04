@@ -1,0 +1,13 @@
+---
+# defaults file for wordpress_role
+network_name: "wordpress" 
+
+wordpress_container: "wordpress"
+wordpress_data : "wordpress_data"
+
+mysql_container: "mysql"
+mysql_root_password: "root789!"
+mysql_user: "wordpress"
+mysql_password: "password789!"
+mysql_databse: "db_wordpress"
+mysql_data: "mysql_data"

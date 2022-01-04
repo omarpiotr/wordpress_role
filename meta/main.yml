@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Omar Piotr BENNANI
+  description: Setup wordpress_role (wordpress and mysql) via containers using Ansible and docker_role
+  company: BENNANI
+
+  license: license (GPL-2.0-or-later, MIT, etc)
+
+  min_ansible_version: 2.1
+
