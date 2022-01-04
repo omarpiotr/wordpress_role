@@ -1,0 +1,17 @@
+---
+namespace: community
+name: wordpress_role
+version: 1.0.1
+readme: README.md
+authors:
+  - Omar Piotr
+description: Install wordpress via Ansible with docker_containers
+license_file: COPYING
+tags:
+  - v1
+repository: https://github.com/omarpiotr/wordpress_role.git
+documentation: https://github.com/omarpiotr/wordpress_role.git
+homepage: https://github.com/omarpiotr/wordpress_role.git
+issues: https://github.com/omarpiotr/wordpress_role.git
+build_ignore:
+  - .gitignore
