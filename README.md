@@ -1,4 +1,4 @@
-Role Name
+Wordpress Role
 =========
 
 A brief description of the role goes here.
